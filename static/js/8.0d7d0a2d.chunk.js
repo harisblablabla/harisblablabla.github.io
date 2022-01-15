@@ -1,0 +1,2 @@
+(this["webpackJsonpefishery-app"]=this["webpackJsonpefishery-app"]||[]).push([[8],{179:function(e,a,n){"use strict";n.r(a),n.d(a,"default",(function(){return l}));var t=n(0),r=n.n(t),c=n(7);function l(){return r.a.createElement("div",{className:"sidenav col-md-3 col-lg-2 d-md-block bg-dark collapse"},r.a.createElement("nav",null,r.a.createElement(c.b,{to:"/perikanan"},"Perikanan"),r.a.createElement(c.b,{to:"/"},"Shrimp"),r.a.createElement(c.b,{to:"/"},"eFarm")))}}}]);
+//# sourceMappingURL=8.0d7d0a2d.chunk.js.map
